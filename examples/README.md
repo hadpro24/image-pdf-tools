@@ -1,6 +1,3 @@
-# pathus_script
-Image to pdf and pdf merged python
-
 # Setup local
 ```sh
 	git clone https://github.com/hadpro24/pathus_script.git
