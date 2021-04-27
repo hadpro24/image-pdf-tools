@@ -12,7 +12,7 @@ from image_pdf_tools import image_to_pdf, pdf_merge
 
 image_to_pdf('image_path_file.png', 'folder_to_save_image')
 
-image_to_pdf(
+pdf_merge(
     	['pdf_path_file1.pdf', 'pdf_path_file2.pdf'], 
     		
     		'folder_to_save_image')
